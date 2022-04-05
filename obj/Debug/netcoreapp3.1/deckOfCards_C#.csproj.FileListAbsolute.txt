@@ -1,0 +1,13 @@
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.exe
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.deps.json
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.runtimeconfig.json
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.runtimeconfig.dev.json
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.dll
+C:\CodingDojo\c#\assigments\deckOfCards_C#\bin\Debug\netcoreapp3.1\deckOfCards_C#.pdb
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.csprojAssemblyReference.cache
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.AssemblyInfoInputs.cache
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.AssemblyInfo.cs
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.csproj.CoreCompileInputs.cache
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.dll
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.pdb
+C:\CodingDojo\c#\assigments\deckOfCards_C#\obj\Debug\netcoreapp3.1\deckOfCards_C#.genruntimeconfig.cache
